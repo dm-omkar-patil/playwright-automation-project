@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Playwright user session data
+linkedin-session/
+
+# Selenium Chrome session
+selenium-session/
+
+# Local environment files
+.env
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dumped HTML for debugging
+page-dump.html
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Applied job storage (optional, if you don't want to track it)
+applied-jobs.json
