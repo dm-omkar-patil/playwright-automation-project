@@ -1,5 +1,5 @@
 # Node modules
-node_modules/
+node_modules
 
 # Playwright user session data
 linkedin-session/
@@ -17,7 +17,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # Dumped HTML for debugging
-page-dump.html
+page-dump.html/
 
 # System files
 .DS_Store
